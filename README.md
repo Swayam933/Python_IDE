@@ -1,5 +1,5 @@
 # **Own Python IDE🖥**
-## This is a normal/small python IDE made with python itself. But to get it perfectly work, it requires *Python* Environment mainly. I created this for learning and doing project side by side to relate this. Currently don't have any feature with it.
+###  This is a normal/small python IDE made with python itself. But to get it perfectly work, it requires *Python* Environment mainly. I created this for learning and doing project side by side to relate this. Currently don't have any feature with it.
 ***
 ## **Prerequisites**
   - Python 3.9.5
